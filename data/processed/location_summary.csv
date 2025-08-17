@@ -1,0 +1,11 @@
+place,n_reviews,negative,neutral,positive,positive_rate
+Saint Patricks Cathedral,41,0,0,41,1.0
+Brooklyn Bridge,25,0,0,25,1.0
+Bethesda Fountain,25,0,1,24,0.96
+Saint Malachys,25,1,0,24,0.96
+Brotherhood Synagogue,25,2,0,23,0.92
+African Burial Grounds National Monument,25,2,2,21,0.84
+Mahayana Temple,25,2,2,21,0.84
+Islamic Cultural Center Of New York,25,4,1,20,0.8
+East End Temple,9,1,1,7,0.778
+Prison Ship Martyrs Monument,25,4,4,17,0.68
